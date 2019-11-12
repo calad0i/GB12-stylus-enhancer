@@ -1,5 +1,5 @@
 	/*
-	Developed base on https://github.com/jleb/AHKHID.
+	Developed based on https://github.com/jleb/AHKHID.
   Author Calad0i
 	*/
   
